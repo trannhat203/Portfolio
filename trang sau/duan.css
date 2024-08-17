@@ -101,8 +101,7 @@ footer p {
     border-right: 4px solid #333;
     border-bottom: 4px solid #333;
     transform: rotate(135deg);
-    animation: bounce 2s infinite;
-    transition: opacity 0.3s ease;
+ 
 }
 
 @keyframes bounce {

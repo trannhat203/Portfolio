@@ -135,7 +135,7 @@ footer p {
     
     border-right: 4px solid #333;
     border-bottom: 4px solid #333;
-    transform: rotate(135deg);
+    transform: rotate(135deg);  
 }
 
 @keyframes bounce {
